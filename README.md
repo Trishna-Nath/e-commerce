@@ -1,2 +1,2 @@
 # E-Commerce MERN Stact project
-## Express server setup
+## Express server setupnpm init 
